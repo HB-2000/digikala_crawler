@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Digikala crawler.iml" filepath="$PROJECT_DIR$/.idea/Digikala crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Digikala crawler/.idea/Digikala crawler.iml" filepath="$PROJECT_DIR$/../Digikala crawler/.idea/Digikala crawler.iml" />
     </modules>
   </component>
 </project>
