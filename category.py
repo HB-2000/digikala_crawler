@@ -1,3 +1,4 @@
+# Category
 class Category:
 
     def __init__(self, name, link) -> None:
